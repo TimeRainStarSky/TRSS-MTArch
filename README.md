@@ -39,30 +39,9 @@ curl -LO gitee.com/TimeRainStarSky/TRSS-MTArch/raw/main/Install.sh && bash Insta
 
 </details>
 
-## 项目特点
-
-- 无缝运行 TRSS Bot 管理脚本
-- 更多功能等待你来提出……
-
-## 常见问题
-
-<details><summary>展开</summary>
-
-- 问：我有其他问题
-- 答：提供详细问题描述，通过下方 联系方式 反馈问题
-
-</details>
-
 ## 联系方式
 
 - QQ 群组：[211414032](https://jq.qq.com/?k=QU1xGLEB)
-
-### 时雨🌌星空
-
-- GitHub：[TimeRainStarSky](https://github.com/TimeRainStarSky)
-- 酷安：[时雨丶星空](https://coolapk.com/u/2650948)
-- QQ：[2536554304](https://qm.qq.com/cgi-bin/qm/qr?k=x8LtlP8vwZs7qLwmsbCsyLoAHy7Et1Pj)
-- Telegram：[TimeRainStarSky](https://t.me/TimeRainStarSky)
 
 ## 赞助支持
 
@@ -76,9 +55,5 @@ curl -LO gitee.com/TimeRainStarSky/TRSS-MTArch/raw/main/Install.sh && bash Insta
 
 ## 相关项目
 
+[![TRSS AllBot 管理脚本](https://github-readme-stats.vercel.app/api/pin/?username=TimeRainStarSky&repo=TRSS_AllBot&show_owner=true)](../../../TRSS_AllBot)
 [![TRSS OneBot 管理脚本](https://github-readme-stats.vercel.app/api/pin/?username=TimeRainStarSky&repo=TRSS_OneBot&show_owner=true)](../../../TRSS_OneBot)
-[![TRSS Liteyuki 管理脚本](https://github-readme-stats.vercel.app/api/pin/?username=TimeRainStarSky&repo=TRSS_Liteyuki&show_owner=true)](../../../TRSS_Liteyuki)
-[![TRSS Yunzai 管理脚本](https://github-readme-stats.vercel.app/api/pin/?username=TimeRainStarSky&repo=TRSS_Yunzai&show_owner=true)](../../../TRSS_Yunzai)
-[![TRSS Sagiri 管理脚本](https://github-readme-stats.vercel.app/api/pin/?username=TimeRainStarSky&repo=TRSS_Sagiri&show_owner=true)](../../../TRSS_Sagiri)
-[![TRSS Amiya 管理脚本](https://github-readme-stats.vercel.app/api/pin/?username=TimeRainStarSky&repo=TRSS_Amiya&show_owner=true)](../../../TRSS_Amiya)
-[![TRSS Zhenxun 管理脚本](https://github-readme-stats.vercel.app/api/pin/?username=TimeRainStarSky&repo=TRSS_Zhenxun&show_owner=true)](../../../TRSS_Zhenxun)
